@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a768526-dd0f-44a4-aaa0-347dc5140400" name="Default Changelist" comment="feat&lt;baekjoon&gt;: dfs+bfs">
-      <change afterPath="$PROJECT_DIR$/BaekJoon/DFS+BFS/미로 탐색.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaekJoon/DFS+BFS/숨바꼭질.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/DynamicProgamming/땅따먹기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
