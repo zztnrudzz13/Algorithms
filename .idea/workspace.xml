@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a768526-dd0f-44a4-aaa0-347dc5140400" name="Default Changelist" comment="feat&lt;baekjoon&gt;: dfs+bfs">
-      <change afterPath="$PROJECT_DIR$/BaekJoon/BackTracking/N과 M (1).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaekJoon/Test/도넛행성.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaekJoon/Test/신사.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaekJoon/Test/신을 모시는 사당.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Two Pointers/167. Two Sum ii - Input Array Is Sorted.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
