@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a768526-dd0f-44a4-aaa0-347dc5140400" name="Default Changelist" comment="feat&lt;baekjoon&gt;: dfs+bfs">
-      <change afterPath="$PROJECT_DIR$/BaekJoon/DynamicProgramming/평범한 배낭.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaekJoon/TwoPointers/두 수의 합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/Math/숫자 블록.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/Sort/가장 큰 수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/DFS+BFS/네트워크.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/DFS+BFS/단어 변환.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/DFS+BFS/여행경로.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
