@@ -2,12 +2,12 @@ import sys
 input = sys.stdin.readline
 N, M = map(int, input().split())
 arr = []
-result = []
-visited = [False] * N+1
+visited = [False] * (N+1)
 
 def dfs():
     if len(arr) == M:
-        result.append(arr)
+        print(' '.join(map(str, arr)))
+        return
     for i in range(1, N+1):
         if visited[i]:  # 이미 방문한 노드는 건너뛰기
             continue
@@ -17,3 +17,4 @@ def dfs():
         arr.pop()  # arr에서 마지막 원소 다시 꺼내고
         visited[i] = False  # False 상태로 바꿔주기
 
+dfs()
