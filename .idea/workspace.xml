@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a768526-dd0f-44a4-aaa0-347dc5140400" name="Default Changelist" comment="feat&lt;baekjoon&gt;: dfs+bfs">
-      <change afterPath="$PROJECT_DIR$/Leetcode/Two Pointers/Best Time to Buy and Sell.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
